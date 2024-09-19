@@ -16,5 +16,7 @@ public class jobsheetgajikaryawan {
         gajiBersih = gajiKotor * potonganPajak;
 
         System.out.println("Hasil Gaji: " + totalGaji);
+        System.out.println(".()");
+        System.err.println("");
     }
 }
