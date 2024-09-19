@@ -18,5 +18,6 @@ public class jobsheetgajikaryawan {
         System.out.println("Hasil Gaji: " + totalGaji);
         System.out.println(".()");
         System.err.println("");
+        System.out.println(".()");
     }
 }
